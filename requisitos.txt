@@ -1,0 +1,6 @@
+LISTADO DE REQUERIMIENTOS
+
+La pagina tendra
+-Inicio
+-Sobre nosotros
+-Contacto
